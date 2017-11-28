@@ -24,6 +24,6 @@ function processCurrentDate() {
     insertYHElement();
   }
   if (today.getTime() == tianyiDay.getTime()) {
-    insertYHElement();
+    insertTYElement();
   }
 }
